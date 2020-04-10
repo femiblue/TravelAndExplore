@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<configuration date="2018/03/29" author="e.World Technology Ltd.">
+<project id="{75D8DC58-3D90-4206-8D81-1D4FF2853B57}" file="C:\xampp\htdocs\ci_projects\mt_admin\project1.pmp" name="project1" product="PHPMaker" version="10.0" datetime="2018/03/29 21:22:42" languagefolder="phplang" userlevel="">
+<table id="filter" name="filter" caption="Filter" userlevel="" priv="1"/>
+<table id="flight" name="flight" caption="Flight" userlevel="" priv="1"/>
+<table id="hotel" name="hotel" caption="Hotel" userlevel="" priv="1"/>
+<table id="room" name="room" caption="Room" userlevel="" priv="1"/>
+<table id="dialogue_knowledge" name="dialogue_knowledge" caption="chat" userlevel="" priv="1"/>
+<table id="dialogue_rules" name="dialogue_rules" caption="Dialogue Rules" userlevel="" priv="1"/>
+<table id="dialogue_rules_old" name="dialogue_rules_old" caption="dialogue rules old" userlevel="" priv="1"/>
+</project></configuration>
